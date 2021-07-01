@@ -41,7 +41,7 @@
         </plugins>
     </build>
     <scm>
-        <developerConnection>scm:git:https://github.com/Aa20475/PetClinic.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:Aa20475/PetClinic.git</developerConnection>
     </scm>
 
 </project>
